@@ -1,0 +1,352 @@
+[
+    {
+        "day": "31",
+        "temp_day": "+17",
+        "temp_night": "+13",
+        "full_date": "31 мая, пн",
+        "feels_like": "+14",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.4 м/с З"
+    },
+    {
+        "day": "1",
+        "temp_day": "+16",
+        "temp_night": "+13",
+        "full_date": "1 июня, вт",
+        "feels_like": "+13",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "5.3 м/с СЗ"
+    },
+    {
+        "day": "2",
+        "temp_day": "+17",
+        "temp_night": "+13",
+        "full_date": "2 июня, ср",
+        "feels_like": "+14",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "47%",
+        "wind_info": "4.3 м/с З"
+    },
+    {
+        "day": "3",
+        "temp_day": "+17",
+        "temp_night": "+13",
+        "full_date": "3 июня, чт",
+        "feels_like": "+13",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "47%",
+        "wind_info": "5.4 м/с З"
+    },
+    {
+        "day": "4",
+        "temp_day": "+18",
+        "temp_night": "+14",
+        "full_date": "4 июня, пт",
+        "feels_like": "+14",
+        "pressure": "614 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "5.1 м/с З"
+    },
+    {
+        "day": "5",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "5 июня, сб",
+        "feels_like": "+15",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "43%",
+        "wind_info": "5.5 м/с З"
+    },
+    {
+        "day": "6",
+        "temp_day": "+18",
+        "temp_night": "+15",
+        "full_date": "6 июня, вс",
+        "feels_like": "+15",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "5.3 м/с З"
+    },
+    {
+        "day": "7",
+        "temp_day": "+19",
+        "temp_night": "+16",
+        "full_date": "7 июня, пн",
+        "feels_like": "+17",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "43%",
+        "wind_info": "5 м/с ЮЗ"
+    },
+    {
+        "day": "8",
+        "temp_day": "+19",
+        "temp_night": "+16",
+        "full_date": "8 июня, вт",
+        "feels_like": "+17",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "44%",
+        "wind_info": "5 м/с З"
+    },
+    {
+        "day": "9",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "9 июня, ср",
+        "feels_like": "+17",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "40%",
+        "wind_info": "5.3 м/с СЗ"
+    },
+    {
+        "day": "10",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "10 июня, чт",
+        "feels_like": "+16",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "4.6 м/с ЮЗ"
+    },
+    {
+        "day": "11",
+        "temp_day": "+20",
+        "temp_night": "+16",
+        "full_date": "11 июня, пт",
+        "feels_like": "+18",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "3.9 м/с З"
+    },
+    {
+        "day": "12",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "12 июня, сб",
+        "feels_like": "+16",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.5 м/с ЮЗ"
+    },
+    {
+        "day": "13",
+        "temp_day": "+20",
+        "temp_night": "+16",
+        "full_date": "13 июня, вс",
+        "feels_like": "+18",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "5.6 м/с СЗ"
+    },
+    {
+        "day": "14",
+        "temp_day": "+20",
+        "temp_night": "+16",
+        "full_date": "14 июня, пн",
+        "feels_like": "+17",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "44%",
+        "wind_info": "4.5 м/с З"
+    },
+    {
+        "day": "15",
+        "temp_day": "+19",
+        "temp_night": "+16",
+        "full_date": "15 июня, вт",
+        "feels_like": "+16",
+        "pressure": "610 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "5.3 м/с З"
+    },
+    {
+        "day": "16",
+        "temp_day": "+18",
+        "temp_night": "+15",
+        "full_date": "16 июня, ср",
+        "feels_like": "+15",
+        "pressure": "609 мм рт. ст.",
+        "humidity": "51%",
+        "wind_info": "5.1 м/с З"
+    },
+    {
+        "day": "17",
+        "temp_day": "+17",
+        "temp_night": "+15",
+        "full_date": "17 июня, чт",
+        "feels_like": "+14",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "47%",
+        "wind_info": "5 м/с З"
+    },
+    {
+        "day": "18",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "18 июня, пт",
+        "feels_like": "+16",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "4.6 м/с ЮЗ"
+    },
+    {
+        "day": "19",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "19 июня, сб",
+        "feels_like": "+17",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "43%",
+        "wind_info": "5 м/с З"
+    },
+    {
+        "day": "20",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "20 июня, вс",
+        "feels_like": "+18",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "40%",
+        "wind_info": "3.7 м/с ЮЗ"
+    },
+    {
+        "day": "21",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "21 июня, пн",
+        "feels_like": "+17",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "43%",
+        "wind_info": "4.3 м/с ЮЗ"
+    },
+    {
+        "day": "22",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "22 июня, вт",
+        "feels_like": "+18",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "4.3 м/с З"
+    },
+    {
+        "day": "23",
+        "temp_day": "+19",
+        "temp_night": "+16",
+        "full_date": "23 июня, ср",
+        "feels_like": "+16",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "49%",
+        "wind_info": "5.3 м/с З"
+    },
+    {
+        "day": "24",
+        "temp_day": "+20",
+        "temp_night": "+16",
+        "full_date": "24 июня, чт",
+        "feels_like": "+17",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.4 м/с З"
+    },
+    {
+        "day": "25",
+        "temp_day": "+19",
+        "temp_night": "+16",
+        "full_date": "25 июня, пт",
+        "feels_like": "+16",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.5 м/с З"
+    },
+    {
+        "day": "26",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "26 июня, сб",
+        "feels_like": "+17",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.8 м/с З"
+    },
+    {
+        "day": "27",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "27 июня, вс",
+        "feels_like": "+17",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "50%",
+        "wind_info": "4.1 м/с З"
+    },
+    {
+        "day": "28",
+        "temp_day": "+18",
+        "temp_night": "+15",
+        "full_date": "28 июня, пн",
+        "feels_like": "+15",
+        "pressure": "612 мм рт. ст.",
+        "humidity": "52%",
+        "wind_info": "4.9 м/с З"
+    },
+    {
+        "day": "29",
+        "temp_day": "+19",
+        "temp_night": "+15",
+        "full_date": "29 июня, вт",
+        "feels_like": "+16",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "44%",
+        "wind_info": "5 м/с ЮЗ"
+    },
+    {
+        "day": "30",
+        "temp_day": "+21",
+        "temp_night": "+17",
+        "full_date": "30 июня, ср",
+        "feels_like": "+19",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "41%",
+        "wind_info": "4.1 м/с ЮЗ"
+    },
+    {
+        "day": "1",
+        "temp_day": "+21",
+        "temp_night": "+17",
+        "full_date": "1 июля, чт",
+        "feels_like": "+18",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "43%",
+        "wind_info": "4.9 м/с ЮЗ"
+    },
+    {
+        "day": "2",
+        "temp_day": "+22",
+        "temp_night": "+17",
+        "full_date": "2 июля, пт",
+        "feels_like": "+19",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "40%",
+        "wind_info": "5.4 м/с З"
+    },
+    {
+        "day": "3",
+        "temp_day": "+21",
+        "temp_night": "+16",
+        "full_date": "3 июля, сб",
+        "feels_like": "+19",
+        "pressure": "611 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "4.5 м/с З"
+    },
+    {
+        "day": "4",
+        "temp_day": "+20",
+        "temp_night": "+17",
+        "full_date": "4 июля, вс",
+        "feels_like": "+17",
+        "pressure": "613 мм рт. ст.",
+        "humidity": "46%",
+        "wind_info": "4.4 м/с СЗ"
+    }
+]
